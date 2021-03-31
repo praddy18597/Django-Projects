@@ -1,5 +1,7 @@
 # Django-Projects
 
+#### Tip: Wait for few seconds to load the page or Reload it in case if page is not opening 😊
+
 ### 1) URL Shortner : To Use and Access the Project Click on the Image Below 👇
 
 #### In this Project we can Short the long Urls and used for browsing.
